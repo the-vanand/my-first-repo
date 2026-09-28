@@ -1,9 +1,1 @@
-Мой первый репозиторий!
-Я изучаю Git!
-euifaeurgbfdguouh
-
-
-
-adiogfaerhgoahd\
-
-fdsfdsfsdfs
+Тест Савченко
